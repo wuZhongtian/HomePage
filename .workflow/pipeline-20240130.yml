@@ -3,6 +3,10 @@ name: pipeline-20240130
 displayName: pipeline-20240130
 triggers:
   trigger: auto
+  push:
+    branches:
+      prefix:
+        - ''
 stages:
   - name: stage-25df75c0
     displayName: Node构建
@@ -24,7 +28,7 @@ stages:
         artifacts:
           - name: BUILD_ARTIFACT
             path:
-              - ./dist
+              - ./dist/
         caches:
           - ~/.npm
           - ~/.yarn
