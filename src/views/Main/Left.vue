@@ -17,7 +17,7 @@ const store = mainStore();
   // flex: 1 0 0%;
   width: 50%;
   margin-right: 10px;
-  transform: translateY(20px);
+  // transform: translateY(20px);
   &.hidden {
     display: none;
   }

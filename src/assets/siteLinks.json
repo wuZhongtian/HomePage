@@ -5,6 +5,21 @@
     "link": "https://notes.wudetian.top/notes/directory.html"
   },
   {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://nav.imsyy.top/"
+  },
+  {
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.imsyy.top/"
+  },
+  {
+    "icon": "Book",
+    "name": "MUI模板",
+    "link": "http://mui.wudetian.top/"
+  },
+  {
     "icon": "Cloud",
     "name": "网盘",
     "link": "https://pan.imsyy.top/"
@@ -13,21 +28,6 @@
     "icon": "CompactDisc",
     "name": "音乐",
     "link": "https://music.imsyy.top/"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
   },
   {
     "icon": "LaptopCode",

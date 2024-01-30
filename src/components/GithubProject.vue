@@ -22,7 +22,7 @@
               <div class="name">
                 <bookmark theme="outline" size="22" fill="#efefef" />
                 <div class="name-text">
-                  <span class="author">{{ item.author }}</span>
+                  <span class="author">{{ item.author2 || item.author }}</span>
                   <span>{{ item.name }}</span>
                 </div>
               </div>
@@ -44,14 +44,16 @@ import { Pagination, Mousewheel } from "swiper";
 // 仓库数据
 const projectData = [
   {
-    name: "home",
-    author: "imsyy",
-    desc: "个人主页，我的个人主页，个人主页源码，主页模板，homepage",
+    name: "Notable",
+    author: "wuZhongtian",
+    author2: "My",
+    desc: "学习随手记,每天有新料！热爱嵌入式的前端开发者,充满技术的世界...",
   },
   {
-    name: "SPlayer",
-    author: "imsyy",
-    desc: "🎉 一个简约的音乐播放器，支持网易云音乐账号登录，逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | A minimalist music player",
+    name: "HomePage",
+    author: "wuZhongtian",
+    author2: "My",
+    desc: "个人主页，我的个人主页，个人主页源码，主页模板，homepage",
   },
   {
     name: "Snavigation",
@@ -62,6 +64,11 @@ const projectData = [
     name: "DailyHotApi",
     author: "imsyy",
     desc: "今日热榜 API，一个聚合热门数据的 API 接口，支持 Vercel 部署 | 前端页面：https://github.com/imsyy/DailyHot",
+  },
+  {
+    name: "SPlayer",
+    author: "imsyy",
+    desc: "🎉 一个简约的音乐播放器，支持网易云音乐账号登录，逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | A minimalist music player",
   },
   {
     name: "site-status",
