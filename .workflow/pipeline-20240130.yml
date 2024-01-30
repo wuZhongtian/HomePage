@@ -3,10 +3,6 @@ name: pipeline-20240130
 displayName: pipeline-20240130
 triggers:
   trigger: auto
-  push:
-    branches:
-      exclude:
-        - master
 stages:
   - name: stage-25df75c0
     displayName: Node构建
