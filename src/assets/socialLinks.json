@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Gitee",
+    "icon": "/images/icon/gitee.png",
+    "tip": "去 Gitee 看看 ~",
+    "url": "https://gitee.com/wuZhongtian"
+  },
+  {
+    "name": "Github",
+    "icon": "/images/icon/github.png",
+    "tip": "去 Github 看看",
+    "url": "https://github.com/wuZhongtian"
+  },
+  {
+    "name": "QQ",
+    "icon": "/images/icon/qq.png",
+    "tip": "有什么事吗",
+    "url": "https://res.abeim.cn/api/qq/?qq=1602453034"
+  },
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "来封 Email ~",
+    "url": "mailto:1602453034@qq.com"
+  },
+  {
+    "name": "BiliBili",
+    "icon": "/images/icon/bilibili.png",
+    "tip": "(゜-゜)つロ 干杯 ~",
+    "url": "https://space.bilibili.com/1085984201"
+  },
+  {
+    "name": "抖音",
+    "icon": "/images/icon/douyin.png",
+    "tip": "你懂的 ~",
+    "url": "https://www.douyin.com/user/MS4wLjABAAAAWr1xaZNu8989DhmjnI8DxoTJ8S_zn64KClCO44RZFUksj4guVvs_CkDZhJ9xlgK9"
+  }
+]
