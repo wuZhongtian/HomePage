@@ -21,17 +21,17 @@
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "DIY仓库",
+    "link": "https://wudetian.top/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "待开发...",
+    "link": "https://wudetian.top/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "CompactDisc",
+    "name": "待开发...",
+    "link": "https://wudetian.top/"
   }
 ]
