@@ -74,18 +74,3 @@ stages:
         notify: []
         strategy:
           retry: '0'
-  - name: stage-c2bb9f14
-    displayName: 人工审核
-    strategy: naturally
-    trigger: auto
-    executor:
-      - wuZhongtian
-    steps:
-      - step: tool@review
-        name: tool_review
-        displayName: 人工卡点
-        reviewer:
-          - wuZhongtian
-        notify: []
-        strategy:
-          retry: '0'
