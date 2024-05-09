@@ -21,13 +21,23 @@
   },
   {
     "icon": "Cloud",
-    "name": "DIY仓库",
+    "name": "DIY仓库(待开放)",
     "link": "https://wudetian.top/"
   },
   {
     "icon": "CompactDisc",
-    "name": "待开发...",
-    "link": "https://wudetian.top/"
+    "name": "企业官网(有赞)",
+    "link": "https://gouban.com/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "企业官网(阿里)",
+    "link": "https://aliui.com/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "模块设计(job)",
+    "link": "https://aliui.com/tool/#/"
   },
   {
     "icon": "CompactDisc",
