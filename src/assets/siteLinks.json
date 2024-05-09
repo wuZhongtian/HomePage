@@ -36,6 +36,11 @@
   },
   {
     "icon": "CompactDisc",
+    "name": "旧版首页",
+    "link": "https://my.wudetian.top/"
+  },
+  {
+    "icon": "CompactDisc",
     "name": "自助假条系统",
     "link": "https://my.wudetian.top/ding"
   },
