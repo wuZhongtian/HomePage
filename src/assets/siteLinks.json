@@ -15,9 +15,19 @@
     "link": "https://hot.imsyy.top/"
   },
   {
-    "icon": "Book",
-    "name": "MUI模板",
-    "link": "http://mui.wudetian.top/"
+    "icon": "CompactDisc",
+    "name": "沃姆官网(有赞)",
+    "link": "https://gouban.com/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "沃姆官网(阿里)",
+    "link": "https://aliui.com/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "模块设计(job)",
+    "link": "https://aliui.com/tool/#/"
   },
   {
     "icon": "Cloud",
@@ -26,18 +36,13 @@
   },
   {
     "icon": "CompactDisc",
-    "name": "企业官网(有赞)",
-    "link": "https://gouban.com/"
+    "name": "自助假条系统",
+    "link": "https://my.wudetian.top/ding"
   },
   {
-    "icon": "CompactDisc",
-    "name": "企业官网(阿里)",
-    "link": "https://aliui.com/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "模块设计(job)",
-    "link": "https://aliui.com/tool/#/"
+    "icon": "Book",
+    "name": "MUI模板",
+    "link": "http://mui.wudetian.top/"
   },
   {
     "icon": "CompactDisc",
