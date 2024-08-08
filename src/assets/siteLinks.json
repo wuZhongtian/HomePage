@@ -15,19 +15,14 @@
     "link": "https://hot.imsyy.top/"
   },
   {
-    "icon": "Cloud",
-    "name": "DIY仓库(待开放)",
-    "link": "https://wudetian.top/"
+    "icon": "CompactDisc",
+    "name": "MyFreeMP3",
+    "link": "https://tool.liumingye.cn/music/#/"
   },
   {
-    "icon": "CompactDisc",
+    "icon": "Compass",
     "name": "旧版首页",
     "link": "https://my.wudetian.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "自助假条系统",
-    "link": "https://my.wudetian.top/ding"
   },
   {
     "icon": "Book",
@@ -35,7 +30,17 @@
     "link": "http://mui.wudetian.top/"
   },
   {
-    "icon": "CompactDisc",
+    "icon": "LaptopCode",
+    "name": "自助假条系统",
+    "link": "https://my.wudetian.top/ding"
+  },
+  {
+    "icon": "Cloud",
+    "name": "DIY仓库(待开放)",
+    "link": "https://wudetian.top/"
+  },
+  {
+    "icon": "Cloud",
     "name": "待开发...",
     "link": "https://wudetian.top/"
   }
